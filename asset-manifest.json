@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc8ee09e.css",
+    "main.js": "/static/js/main.af89b630.js",
+    "static/media/PettyWhirlwindCrocodile-max-1mb.gif": "/static/media/PettyWhirlwindCrocodile-max-1mb.bacf8e327029334a35fe.gif",
+    "index.html": "/index.html",
+    "main.fc8ee09e.css.map": "/static/css/main.fc8ee09e.css.map",
+    "main.af89b630.js.map": "/static/js/main.af89b630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8ee09e.css",
+    "static/js/main.af89b630.js"
+  ]
+}
